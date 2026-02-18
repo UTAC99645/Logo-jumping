@@ -28,7 +28,7 @@ function injectCustomStyles() {
 
     /* 给匹配到的元素应用动画，默认全程循环播放 */
     .auto-bounce-element {
-      animation: logoSquashBounce 0.6s ease-in-out infinite !important;
+      animation: logoSquashBounce 0.5s ease-in-out infinite !important;
       display: inline-block !important;
     }
 
